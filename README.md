@@ -14,7 +14,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/zorru0/FastsetWallet-bot
+git clone https://github.com/ox1nec/FastsetWallet-bot
 cd FastsetWallet-bot
 run.bat
 ```
@@ -22,7 +22,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/zorru0/FastsetWallet-bot
+git clone https://github.com/ox1nec/FastsetWallet-bot
 cd FastsetWallet-bot
 pip install -r requirements.txt
 python bot.py
