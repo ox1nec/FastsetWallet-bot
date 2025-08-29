@@ -11,7 +11,7 @@ class BaseClient:
 
         self.website_headers = {
             'authority': 'api.getgrass.io',
-            'accept': 'application/json, text/plain, */*',
+            'accept': 'application/json, text/plain, */*', 
             'accept-language': 'uk-UA,uk;q=0.9,en-US;q=0.8,en;q=0.7',
             'content-type': 'application/json',
             'origin': 'https://app.getgrass.io',
